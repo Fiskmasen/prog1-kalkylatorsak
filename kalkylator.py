@@ -1,12 +1,4 @@
-def multiplication():
-    print("\nRäkna med multiplikation")
-    tal1 = float(input("Skriv ett tal: "))
-    tal2 = float(input("Skriv ett andra tal: "))
-    summa = tal1 * tal2
-    print(f"Summan av {tal1} * {tal2} är {summa}\n")
-
 run = 0
-
 
 while run != 5:
     print("[1] Räkna med +")
